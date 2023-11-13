@@ -51,17 +51,19 @@ Community maintained links to Agon Light resources. Feel free to add with a pull
 - [Agon Boing, port of the Amiga ball demo](https://github.com/leighbb/agon-boing)
 - [Ports of games from various old computer books](https://github.com/rprouse/agon-software)
 - [Port fom TinyBasic](https://github.com/oldpatientsea/agon-tinybasic)
-- 
+- [Space Birds](https://github.com/james7780/Agon_SpaceBirds)
 
 # BBC BASIC Resources
 - [R.T.Russell - The home of BBC BASIC](http://bbcbasic.uk/)
 - [A Short History of BBC Basic](http://bbcbasic.uk/bbcbasic/history.html)
 - [An Introduction to Programming BBC BASIC By Peter Nairn](http://bbcbasic.uk/bbcwin/tutorial/index.html)
 - [Agon BBC Basic Manual](https://github.com/oldpatientsea/agon-bbc-basic-manual)
+- [BBC BASIC (Z80) for the Agon Light](https://oldpatientsea.github.io/agon-bbc-basic-manual/0.1/bbc1.html)
 
 # CP/M Resources
 - [Nirash's CP/M port for Agon Light](https://github.com/nihirash/Agon-CPM2.2)
 - [TurboLoader](https://github.com/TurBoss/TurBoLoader)
+- [CP/M tools](https://github.com/lipro-cpm4l/cpmtools)
   
 ### Unofficial CP/M website - http://www.cpm.z80.de/
 - [Digital Research Binary Files](http://www.cpm.z80.de/binary.html)
@@ -147,6 +149,9 @@ What is the Quark Firmware? The Quark firmware is the official operating system 
 - [Agon Forth](https://github.com/lennart-benschop/agon-forth)
 - [Agon Utilties](https://github.com/lennart-benschop/agon-utilities)
 - [Turbo Loader](https://github.com/TurBoss/TurBoLoader)
+- [Snail gopher browser from Agon Mos Tools](https://github.com/nihirash/Agon-MOS-Tools)
+- [Agon utilities](https://github.com/lennart-benschop/agon-utilities)
+
 
 A utility to flash a MOS image to the eZ80F92 Flash without a ZDS USB cable
 # Buying an Agon Light
