@@ -14,11 +14,20 @@ Community maintained links to Agon Light resources. Feel free to add with a pull
 - [Demonstrating Agon light™'s gaming capabilities and new hardware on sale for $50!](https://www.youtube.com/watch?v=KWRallh_hfc)
 - [A first look at Agon Console 8](https://youtu.be/3NqbouGTTqs)
 
+# Getting Started
+-[POPUP MOS, just copy to MicroSD card and boot](https://github.com/tomm/popup-mos)
+
 # Youtube videos
 - [Simple Debugging on the Agon Light](https://www.youtube.com/watch?v=bAlpbd9ermk)
 - [Agon Light 2 - a Z80 based SBC](https://www.youtube.com/watch?v=mlVW3eiqYis)
+- [Agon Light 2 long review by LazrBum](https://youtu.be/HMaCa89KopY?si=A06wpABZYmn2iTA_)
+- [AgonTV: MUD Multiplayer Online Gaming on Agon!](https://www.youtube.com/watch?v=dYVpXgn82Fk)
 - [Is this the FASTEST and CHEAPEST 8-Bit Computer Ever?](https://youtu.be/CQ_C_RvJJ9A)
-- 
+- [Nova Star video review](https://www.youtube.com/watch?v=9VNhshYAGQ0)
+- [BBC Basic & C - LazrBum](https://youtu.be/S7iilqWDxNE?si=Abq11B1pTuEN6LnQ)
+- [Roky](https://youtu.be/oeCaL_O3g_s?si=lK29_LJ07p5qzpWm)
+- [DraegerMan](https://youtu.be/hYh3Kdke2VM?si=zVaCq5qq7iIjAoQ1)
+- [Snake & Forth](https://youtu.be/bDwvFlDvt2M?si=kwDiAwReOW749d5W)
 - 
 
 # Games for Agon Light
@@ -27,18 +36,46 @@ Community maintained links to Agon Light resources. Feel free to add with a pull
 - [Nova Star by Nicholas Pratt](https://github.com/NicholasPratt/Nova-Star)
 - [ASCII Generator](https://github.com/NicholasPratt/BBCASCIIGENERATOR)
 - [Sokoban](https://github.com/envenomator/agon-sokoban)
-  
+- [Agon Rokky](https://github.com/nihirash/Agon-rokky)
+- [Oregon Trail](https://github.com/LuzrBum/Agon-OregonTrail)
+- [Draegerman](https://github.com/8BitVino/draegerman)
+- [Agon Light Game Library](https://github.com/eightbitswide/AgonLight-Game-Library)
+- [Agon Light Invaders](https://github.com/pgregory/agon-light-invaders)
+- [Game of Life](https://github.com/craiglp/agon-life)
+- [Agon fun](https://github.com/TechCowboy/Agon-FUN)
+- [fSodoku](https://github.com/theflynn49/fsudoku)
+- [Agon Basic](https://github.com/pngwen/agon-bas)
+- [Elite & Pitma](https://github.com/xianpinder/Agon)
+- [Music Track Compiler](https://github.com/nihirash/agon-music-track-compiler)
+- [4-in-a-row and lunar type](https://github.com/JayACarlsonAtHome/AgonLight2)
+- [Agon Boing, port of the Amiga ball demo](https://github.com/leighbb/agon-boing)
+- [Ports of games from various old computer books](https://github.com/rprouse/agon-software)
+- [Port fom TinyBasic](https://github.com/oldpatientsea/agon-tinybasic)
+- 
 
 # BBC BASIC Resources
 - [R.T.Russell - The home of BBC BASIC](http://bbcbasic.uk/)
 - [A Short History of BBC Basic](http://bbcbasic.uk/bbcbasic/history.html)
-- [An Introduction to Programming BBC BASIC By Peter Nairn](http://bbcbasic.uk/bbcwin/tutorial/index.html) 
+- [An Introduction to Programming BBC BASIC By Peter Nairn](http://bbcbasic.uk/bbcwin/tutorial/index.html)
+- [Agon BBC Basic Manual](https://github.com/oldpatientsea/agon-bbc-basic-manual)
 
 # CP/M Resources
 - [Nirash's CP/M port for Agon Light](https://github.com/nihirash/Agon-CPM2.2)
+- [TurboLoader](https://github.com/TurBoss/TurBoLoader)
+  
+### Unofficial CP/M website - http://www.cpm.z80.de/
+- [Digital Research Binary Files](http://www.cpm.z80.de/binary.html)
+- [Digital Research Source Code](http://www.cpm.z80.de/source.html)
+- [CP/M Emulation](http://www.cpm.z80.de/emulate.html)
+- [CP/M Sydex shareware](http://www.cpm.z80.de/share.html)
+- [Tim Olmstead Memorial Digital Research CP/M Library](http://www.cpm.z80.de/drilib.html)
+
+# Programming
+- [Olimex Weekly Programming Challenge](https://github.com/OLIMEX/AgonLight-WPC)
 
 # Agon Light Emulator
 - [Agon Light Emulator for Linux & Windows](https://github.com/tomm/fab-agon-emulator)
+- [Agon Light CPU Emulator by tomm](https://github.com/tomm/agon-cpu-emulator)
 
 # Agon Light Technical
 - [VDP Commands](https://github.com/breakintoprogram/agon-vdp/tree/main)
@@ -65,6 +102,7 @@ MOS API
 
 ### GPIO 
 - [GPIO](https://github.com/breakintoprogram/agon-docs/wiki/GPIO)
+- [Agon Light, PCBs and GPIOs](https://github.com/Kayto/AgonLight_GPIO)
 
 ### BBC BASIC
 - [BBC BASIC for Agon Manual](https://oldpatientsea.github.io/agon-bbc-basic-manual/0.1/index.html)
@@ -108,6 +146,7 @@ What is the Quark Firmware? The Quark firmware is the official operating system 
 - [agon-ez80asm, a fully featured EZ80 Assembler running on the Agon](https://github.com/envenomator/agon-ez80asm)
 - [Agon Forth](https://github.com/lennart-benschop/agon-forth)
 - [Agon Utilties](https://github.com/lennart-benschop/agon-utilities)
+- [Turbo Loader](https://github.com/TurBoss/TurBoLoader)
 
 A utility to flash a MOS image to the eZ80F92 Flash without a ZDS USB cable
 # Buying an Agon Light
