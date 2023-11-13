@@ -8,6 +8,7 @@ Community maintained links to Agon Light resources. Feel free to add with a pull
 - [Agon BBC Basic - OFFICIAL BBC Basic port](https://github.com/breakintoprogram/agon-bbc-basic)
 - [Konami's King's Valley ported](https://youtu.be/oVHdhVJTzRo)
 - [Olimex Argon Light 2 GitHub page](https://github.com/OLIMEX/AgonLight2)
+- [MOS](https://github.com/breakintoprogram/agon-mos)
 
 ### Official Videos - The Byte Attic
 - [Demonstrating Agon light™'s gaming capabilities and new hardware on sale for $50!](https://www.youtube.com/watch?v=KWRallh_hfc)
@@ -22,9 +23,10 @@ Community maintained links to Agon Light resources. Feel free to add with a pull
 
 # Games for Agon Light
 - [Pizza Dash](https://github.com/NicholasPratt/Pizza-Dash)
-- [Space Safari by Nicholas Pratt](https://github.com/NicholasPratt/Space-Safari
+- [Space Safari by Nicholas Pratt](https://github.com/NicholasPratt/Space-Safari-)
 - [Nova Star by Nicholas Pratt](https://github.com/NicholasPratt/Nova-Star)
 - [ASCII Generator](https://github.com/NicholasPratt/BBCASCIIGENERATOR)
+- [Sokoban](https://github.com/envenomator/agon-sokoban)
   
 
 # BBC BASIC Resources
@@ -33,7 +35,7 @@ Community maintained links to Agon Light resources. Feel free to add with a pull
 - [An Introduction to Programming BBC BASIC By Peter Nairn](http://bbcbasic.uk/bbcwin/tutorial/index.html) 
 
 # CP/M Resources
-- [Nirash's CP/M port for Agon Light (requires SPASM-NG to be built](https://github.com/nihirash/Agon-CPM2.2)
+- [Nirash's CP/M port for Agon Light](https://github.com/nihirash/Agon-CPM2.2)
 
 # Agon Light Emulator
 - [Agon Light Emulator for Linux & Windows](https://github.com/tomm/fab-agon-emulator)
@@ -50,13 +52,23 @@ MOS API
 - [Learn eZ80 Assembly](https://www.chibiakumas.com/ez80/)
 - [Zilog eZ80 Manual](https://github.com/iandstanley/Agon-Light-2/blob/main/docs/Zilog%20ez80%20processor.pdf)
 
-# External Documentation
+# Technical Documentation
 ### Agon
 - [Byte Attic: The Agon Light](https://www.thebyteattic.com/p/agon.html)
 - [Break Into Program: Agon](http://www.breakintoprogram.co.uk/hardware/computers/agon)
 
+### Updating Firmware
+- [Updating Firmware](https://github.com/breakintoprogram/agon-docs/wiki/Updating-Firmware)
+
+### Assembly
+- [Agon Light Assembly](https://github.com/schur/Agon-Light-Assembly)
+
+### GPIO 
+- [GPIO](https://github.com/breakintoprogram/agon-docs/wiki/GPIO)
+
 ### BBC BASIC
 - [BBC BASIC for Agon Manual](https://oldpatientsea.github.io/agon-bbc-basic-manual/0.1/index.html)
+- [BBC Basic for Agon](https://github.com/breakintoprogram/agon-docs/wiki/BBC-BASIC-for-Agon)
 
 ### Libraries
 - [FabGL](http://www.fabglib.org/index.html)
@@ -68,6 +80,7 @@ eZ80F92 Documentation
 - [Specification](https://www.zilog.com/docs/ez80/ps0130.pdf)
 - [Calling C Functions from Assembly and Vice Versa](https://www.zilog.com/docs/appnotes/an0333.pdf)
 - [ZDSII User Manual](http://www.zilog.com/docs/devtools/um0144.pdf)
+- [EZ80 Heaven](https://ez80.readthedocs.io/en/latest/)
 
 # Sample Applications and Templates
 - [Agon Project templates](https://github.com/breakintoprogram/agon-docs/wiki/Projects)
@@ -89,6 +102,14 @@ What is the Quark Firmware? The Quark firmware is the official operating system 
 - [VDP: Visual Display Processor](https://github.com/breakintoprogram/agon-docs/wiki/VDP)
 - [BBC BASIC for Agon: A specially adapted port of R.T.Russell's excellent BASIC interpreter](https://github.com/breakintoprogram/agon-docs/wiki/BBC-BASIC-for-Agon)
 
+# Utilities
+- [Agon-flash Flash Upgrader](https://github.com/envenomator/agon-flash)
+- [Hex Loader, hex load over serial port](https://github.com/envenomator/agon-hexload)
+- [agon-ez80asm, a fully featured EZ80 Assembler running on the Agon](https://github.com/envenomator/agon-ez80asm)
+- [Agon Forth](https://github.com/lennart-benschop/agon-forth)
+- [Agon Utilties](https://github.com/lennart-benschop/agon-utilities)
+
+A utility to flash a MOS image to the eZ80F92 Flash without a ZDS USB cable
 # Buying an Agon Light
 Where can I buy one? At time of writing there are six official distributers of the Agon Light:
 - [Mouser](https://www.mouser.com/ProductDetail/Olimex-Ltd/AgonLight2?qs=9vOqFld9vZWAIti5ng59Vw%3D%3D)
