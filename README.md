@@ -76,6 +76,7 @@ Community maintained links to Agon Light resources. Feel free to add with a pull
 - [Agon BBC Basic Manual](https://github.com/oldpatientsea/agon-bbc-basic-manual)
 - [BBC BASIC (Z80) for the Agon Light](https://oldpatientsea.github.io/agon-bbc-basic-manual/0.1/bbc1.html)
 - [Sample code](https://github.com/robogeek42/agon_basic_mycode)
+- [Hello, Agon! -- Hello World in BBC BASIC, eZ80 Assembly and C](https://www.youtube.com/watch?v=75MTDGiehLs)
 
 # CP/M Resources
 - [Nirash's CP/M port for Agon Light 2](https://github.com/nihirash/Agon-CPM2.2)
@@ -97,7 +98,7 @@ Community maintained links to Agon Light resources. Feel free to add with a pull
 - [Agon Light Assembly](https://github.com/schur/Agon-Light-Assembly)
 - [Learn eZ80 Assembly](https://www.chibiakumas.com/ez80/)
 - [Zilog eZ80 Manual](https://github.com/iandstanley/Agon-Light-2/blob/main/docs/Zilog%20ez80%20processor.pdf)
-
+- [Hello, Agon! -- Hello World in BBC BASIC, eZ80 Assembly and C](https://www.youtube.com/watch?v=75MTDGiehLs)
 
 # Agon Light Emulator
 - [Agon Light Emulator for Linux & Windows](https://github.com/tomm/fab-agon-emulator)
